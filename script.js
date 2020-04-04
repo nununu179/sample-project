@@ -1,1 +1,1 @@
-alert("hoge hoge!");
+alert("hoge huga");
